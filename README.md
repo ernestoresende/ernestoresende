@@ -4,6 +4,4 @@
 
 ## Hey there 👋
 
-I'm Ernesto. I'm a product & experience-focused frontend engineer based in Brazil.
-
-Currently, I'm focused on private company projects that will soon be revealed to the public.
+I'm Ernesto. I'm a Software Engineer specialized in building (and occasionally designing) digital experiences. Highly focused on the JavaScript ecosystem and serverless environments.
